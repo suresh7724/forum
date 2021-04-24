@@ -6,7 +6,7 @@
 // $forumDatabase='forum';
 
 $server='localhost';
-$username='root';
+$username='surya77';
 $password='Surya@my';
 $forumDatabase='forum';
 $connectdb=mysqli_connect($server,$password,$username,$forumDatabase);
