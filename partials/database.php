@@ -26,7 +26,7 @@ $catResult=mysqli_query($connectdb,$threadQuery);
 // $forumDatabase='forum';
 $server='localhost';
 $username='root';
-$password='';
+$password='Surya@my';
 $forumDatabase='forum';
 $connectdb=mysqli_connect($server,$username,$password,$forumDatabase);
 // sql query to connect threads table
