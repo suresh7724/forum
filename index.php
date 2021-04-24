@@ -34,6 +34,7 @@ include 'partials/nav.php';
 </div>
 
 <div class="container my-4">
+    <h1> git update </h2>
 <h2> Browse categories</h2>
     <div class="row">
 <?php
