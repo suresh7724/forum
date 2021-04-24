@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^threadlist/([0-9a-zA-Z]+) threadlist.php?catid=$1 [NC,L]
+RewriteRule ^Welcome index.php [NC,L]
