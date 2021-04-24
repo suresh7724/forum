@@ -7,7 +7,7 @@
 
 $server='localhost';
 $username='root';
-$password='';
+$password='Surya@my';
 $forumDatabase='forum';
 $connectdb=mysqli_connect($server,$password,$username,$forumDatabase);
 // sql query to connect threads table
